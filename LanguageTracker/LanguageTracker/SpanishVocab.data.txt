@@ -4,3 +4,8 @@ chilli:2
 abuelo:2
 Taco332:2
 hello :1
+banana:2
+herb:3
+spider:2
+flash:3
+red:2
