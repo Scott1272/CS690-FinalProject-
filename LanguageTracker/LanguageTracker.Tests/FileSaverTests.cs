@@ -16,7 +16,7 @@ namespace LanguageTracker.Tests
             fileSaver = new FileSaver(testFileName);
         }
 
-        [Fact(Skip = "Skipping this test for now.")]
+        [Fact]
         public void Test_FileSaver_Append()
         {
             // Arrange
